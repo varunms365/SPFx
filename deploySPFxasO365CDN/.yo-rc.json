@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.9.1",
+    "libraryName": "deploy-sp-fxas-o-365-cdn",
+    "libraryId": "a0127c3f-2d1c-44bc-aa64-9e2bc3b4f2fb",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

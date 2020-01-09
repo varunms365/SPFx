@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "deploy-sp-fxas-o-365-cdn-client-side-solution",
+    "id": "a0127c3f-2d1c-44bc-aa64-9e2bc3b4f2fb",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/deploy-sp-fxas-o-365-cdn.sppkg"
+  }
+}

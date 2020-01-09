@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sp-fx-o-365-cdn-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/spFxO365Cdn/SpFxO365CdnWebPart.js",
+          "manifest": "./src/webparts/spFxO365Cdn/SpFxO365CdnWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpFxO365CdnWebPartStrings": "lib/webparts/spFxO365Cdn/loc/{locale}.js"
+  }
+}

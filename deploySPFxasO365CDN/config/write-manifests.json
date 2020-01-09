@@ -1,0 +1,4 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/write-manifests.schema.json",
+  "cdnBasePath": "https://publiccdn.sharepointonline.com/eminentpower.sharepoint.com/sites/epts/O365CDNFiles/SPFxDeployO365CDN/SPFxO365Cdn"
+}
