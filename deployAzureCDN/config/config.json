@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "deploy-az-cdn-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/deployAzCdn/DeployAzCdnWebPart.js",
+          "manifest": "./src/webparts/deployAzCdn/DeployAzCdnWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "DeployAzCdnWebPartStrings": "lib/webparts/deployAzCdn/loc/{locale}.js"
+  }
+}

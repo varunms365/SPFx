@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "deploy-azure-cdn-client-side-solution",
+    "id": "ee6c62e5-063d-49af-8b0d-f5e91cd4f075",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/deploy-azure-cdn.sppkg"
+  }
+}
