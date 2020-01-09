@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "deployexclude-client-side-assets-client-side-solution",
+    "id": "440013af-f9b2-4b37-93a0-cf6a11f77cae",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/deployexclude-client-side-assets.sppkg"
+  }
+}
