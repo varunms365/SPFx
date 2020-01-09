@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "deployinclude-client-side-assets-client-side-solution",
+    "id": "a7d514b7-a719-4501-86cf-797f2b82d3f7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/deployinclude-client-side-assets.sppkg"
+  }
+}
